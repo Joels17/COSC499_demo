@@ -17,5 +17,18 @@ namespace COSC499_demoProject
             }
             return ans;
         }
+
+        public int FindEs(string input)
+        {
+            int count = 0;
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (input[i] == 'e')
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
     }
 }

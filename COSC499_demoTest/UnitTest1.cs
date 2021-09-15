@@ -28,5 +28,19 @@ namespace COSC499_demoTest
             }
 
         }
+
+        [Test]
+        public void FindEsFunction()
+        {
+            int output = stringMan.FindEs(testString);
+            if (output == 1)
+            {
+                Assert.Pass();
+            }
+            else
+            {
+                Assert.Fail();
+            }
+        }
     }
 }
