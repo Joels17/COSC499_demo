@@ -8,5 +8,14 @@ namespace COSC499_demoProject
 {
     public class StringManipulator
     {
+        public string String5Times(string input)
+        {
+            string ans = "";
+            for (int i = 0; i < 5; i++)
+            {
+                ans += input;
+            }
+            return ans;
+        }
     }
 }

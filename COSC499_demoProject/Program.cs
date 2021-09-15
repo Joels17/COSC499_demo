@@ -10,7 +10,9 @@ namespace COSC499_demoProject
             var input = Console.ReadLine();
 
             var stringMan = new StringManipulator();
-            Console.WriteLine(input);
+
+            string output5 = stringMan.String5Times(input);
+            Console.WriteLine($"Your input times 5: {output5}");
         }
     }
 }
