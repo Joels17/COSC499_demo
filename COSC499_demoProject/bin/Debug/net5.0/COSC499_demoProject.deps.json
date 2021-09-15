@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "COSC499_demoProject/1.0.0": {
+        "runtime": {
+          "COSC499_demoProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COSC499_demoProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

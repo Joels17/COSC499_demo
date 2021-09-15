@@ -1,0 +1,16 @@
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\COSC499_demoProject.exe
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\COSC499_demoProject.deps.json
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\COSC499_demoProject.runtimeconfig.json
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\COSC499_demoProject.runtimeconfig.dev.json
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\COSC499_demoProject.dll
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\ref\COSC499_demoProject.dll
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\bin\Debug\net5.0\COSC499_demoProject.pdb
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.csproj.AssemblyReference.cache
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.AssemblyInfoInputs.cache
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.AssemblyInfo.cs
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.csproj.CoreCompileInputs.cache
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.dll
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\ref\COSC499_demoProject.dll
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.pdb
+C:\Users\joels\Documents\School\4thYear\COSC499\Repos\COSC499_demo\COSC499_demoProject\obj\Debug\net5.0\COSC499_demoProject.genruntimeconfig.cache
