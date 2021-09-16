@@ -6,6 +6,7 @@ namespace COSC499_demoProject
     {
         static void Main(string[] args)
         {
+            // Test comment
             Console.Write("Insert a string: ");
             var input = Console.ReadLine();
 
